@@ -1,0 +1,6 @@
+# app-ads.txt文件示例
+# 此文件需要托管在您的网站根目录下，例如：https://yourdomain.com/app-ads.txt
+# 详细说明请查看：https://support.google.com/admob/answer/9012903
+
+# Google AdMob授权条目
+google.com, pub-1176268832448331, DIRECT, f08c47fec0942fa0
